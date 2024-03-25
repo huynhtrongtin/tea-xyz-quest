@@ -5,5 +5,10 @@
   "main": "index.js",
   "author": "@tinhuynh13",
   "repository": "https://github.com/huynhtrongtin/tea-xyz-quest",
-  "license": "ISC"
+  "license": "ISC",
+  "dependencies": {
+    "@huytran/tea-xyz-quest": "^3.0.1",
+    "@tinhuynh13/tea-quest-de": "^2.2.0",
+    "package-lock.json": "^1.0.0"
+  }
 }
